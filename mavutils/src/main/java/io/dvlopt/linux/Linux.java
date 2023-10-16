@@ -55,7 +55,7 @@ public class Linux {
      *
      * @param value The new value of errno.
      *
-     * @see getErrno
+     *
      */
     public static void setErrno( int value ) {
 
